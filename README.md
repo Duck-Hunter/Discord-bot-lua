@@ -1,5 +1,6 @@
 # Discord-bot-lua
 This commands, I'll help you a lot.
+--------------------------------------------------
 
 local discordia = require('discordia')
 local client = discordia.Client()
